@@ -2,7 +2,7 @@
     "analysis": "Country Analysis",
     "total_students": 10000,
     "total_countries": 13,
-    "top_3_countries": [
+    "top_3": [
         {
             "country": "Canada",
             "count": 792
